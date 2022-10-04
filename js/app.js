@@ -8,7 +8,7 @@ $(document).ready(function () {
 
     }, 2000, function () {
         $('.home').animate({
-            height: "100vh",
+            height: "200vh",
 
         }, 2000, function () {
 
